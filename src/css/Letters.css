@@ -1,0 +1,10 @@
+.box span{
+    padding:8px;
+    text-align: center;
+    font-size:1.5em;
+    font-weight: bold;
+}
+.box span:hover{
+  cursor: pointer;
+    color:grey;
+}
